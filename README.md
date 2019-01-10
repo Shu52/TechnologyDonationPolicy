@@ -35,3 +35,8 @@ Nashville will accept donation to disperse to other local non-profits. Items cur
 * [Project Return](https://www.projectreturninc.org/ "Project Return")
 <!--Feel Free to suggest or Add any other local non profits that are in need-->
 
+### Reciepts
+Nashville Software School will provide reciepts upon request at time of donation. The School will use these sites to asses value.
+
+* [Gadget Value](https://www.gadgetvalue.com/ "Gadget Value") For Desktops, Laptops, iPads
+
