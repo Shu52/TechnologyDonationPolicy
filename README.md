@@ -4,7 +4,7 @@
 This is a rough draft of the NSS technology donation policy. This draft includes input from John Wark. Please check for typical phrasing, grammar, and spelling as well as thourghness of all use cases. Please use Raw view to read comments.These notes will be deleted for final copy.
 
 ## Introduction
-Nashville software school accepts technology that meet system requirments for their courses or items that are easily upgradable to system requirments. Nashville Software School is also serving as a collection point for other local non-profits for technology that do not meet the system requirments. Please insure that all personal information is deleted from the item or a factory reset performed if applicable. 
+Nashville software school accepts technology that meet system requirements for their courses or items that are easily upgradable to system requirments. Nashville Software School is also serving as a collection point for other local non-profits for technology that do not meet the system requirements. Please insure that all personal information is deleted from the item or a factory reset performed if applicable. 
 
 ### System Requirments for Nashville Software School
 
@@ -50,4 +50,4 @@ Nashville will accept donation to disperse to other local non-profits. Items cur
 Nashville Software School will provide reciepts upon request at time of donation. The School will use these sites to asses value.
 
 * [Gadget Value](https://www.gadgetvalue.com/ "Gadget Value") For Desktops, Laptops, iPads
-
+<!-- Please feel Free to add other evaluation website. Most sites refer to items selling on eBay as a good reference point to value-->
