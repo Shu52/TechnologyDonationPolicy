@@ -14,6 +14,13 @@ Monitors that screen size is equal or greater than 17 inches.
 **Windows Laptop**
 * 8 Gbs of RAM
 * i5 CPU or greater **and** 5th generation or greater
+<!-- Intel Processors
+    5th Gen BroadWell
+    6th Gen Skylake
+    7th Gen KarbyLake
+    8th Gen Coffee Lake/
+    9th Gen Ice lake
+-->
 
 **Macbooks**
 * 8 Gb of RAM
