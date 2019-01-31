@@ -1,14 +1,11 @@
 # Technology Donation Policy for Nashville Software School
 
-### Rough Draft Notes
-This is a rough draft of the NSS technology donation policy. This draft includes input from John Wark. Please check for typical phrasing, grammar, and spelling as well as thourghness of all use cases. Please use Raw view to read comments.These notes will be deleted for final copy.
-
 ## Introduction
-Nashville software school accepts technology that meet system requirements for their courses or items that are easily upgradable to system requirments. Nashville Software School is also serving as a collection point for other local non-profits for technology that do not meet the system requirements. Please insure that all personal information is deleted from the item or a factory reset performed if applicable. 
+Nashville Software School accepts technology that meet system requirements for their courses or items that are easily upgradable to system requirements. Nashville Software School is also serving as a collection point for other local non-profits for technology that do not meet the system requirements. Please insure that all personal information is deleted from the item or a factory reset performed if applicable. 
 
 ### System Requirments for Nashville Software School
 
-Monitors that screen size is equal or greater than 17 inches.
+Monitors that screen size is equal to or greater than 17 inches and has a VGA and/or HMDI port.
 <!--For Demo Day-->
 
 **Windows Laptop**
